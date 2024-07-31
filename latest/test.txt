@@ -1,0 +1,136 @@
+{
+    "workouts": [
+        {
+            "workoutId": "w001",
+            "name": "Full Body Workout",
+            "date": "2024-06-25",
+            "exercises": [
+                {
+                    "exerciseId": "e001",
+                    "name": "Push-ups",
+                    "sets": [
+                        { "setNumber": 1, "repetitions": 15 },
+                        { "setNumber": 2, "repetitions": 17 },
+                        { "setNumber": 3, "repetitions": 20 }
+                    ]
+                },
+                {
+                    "exerciseId": "e002",
+                    "name": "Squats",
+                    "sets": [
+                        { "setNumber": 1, "repetitions": 20 },
+                        { "setNumber": 2, "repetitions": 20 },
+                        { "setNumber": 3, "repetitions": 20 }
+                    ]
+                },
+                {
+                    "exerciseId": "e003",
+                    "name": "Pull-ups",
+                    "sets": [
+                        { "setNumber": 1, "repetitions": 10 },
+                        { "setNumber": 2, "repetitions": 8 },
+                        { "setNumber": 3, "repetitions": 6 }
+                    ]
+                }
+            ]
+        },
+        {
+            "workoutId": "w002",
+            "name": "Cardio Session",
+            "date": "2024-06-26",
+            "exercises": [
+                {
+                    "exerciseId": "e004",
+                    "name": "Running",
+                    "duration": "30 minutes",
+                    "distance": "5 kilometers",
+                    "caloriesBurned": 300
+                },
+                {
+                    "exerciseId": "e005",
+                    "name": "Jump Rope",
+                    "duration": "15 minutes",
+                    "caloriesBurned": 200
+                }
+            ]
+        },
+        {
+            "workoutId": "w003",
+            "name": "Upper Body Workout",
+            "date": "2024-06-27",
+            "exercises": [
+                {
+                    "exerciseId": "e006",
+                    "name": "Bench Press",
+                    "sets": [
+                        { "setNumber": 1, "repetitions": 12, "weight": "50 kg" },
+                        { "setNumber": 2, "repetitions": 10, "weight": "55 kg" },
+                        { "setNumber": 3, "repetitions": 8, "weight": "60 kg" }
+                    ]
+                },
+                {
+                    "exerciseId": "e007",
+                    "name": "Dumbbell Rows",
+                    "sets": [
+                        { "setNumber": 1, "repetitions": 12, "weight": "20 kg" },
+                        { "setNumber": 2, "repetitions": 10, "weight": "22 kg" },
+                        { "setNumber": 3, "repetitions": 8, "weight": "25 kg" }
+                    ]
+                },
+                {
+                    "exerciseId": "e008",
+                    "name": "Bicep Curls",
+                    "sets": [
+                        { "setNumber": 1, "repetitions": 15, "weight": "10 kg" },
+                        { "setNumber": 2, "repetitions": 12, "weight": "12 kg" },
+                        { "setNumber": 3, "repetitions": 10, "weight": "15 kg" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+[
+  {
+    "name": "John Doe",
+    "age": 28,
+    "email": "john.doe@example.com",
+    "hobbies": ["Reading", "Swimming", "Coding"]
+  },
+  {
+    "name": "Jane Smith",
+    "age": 34,
+    "email": "jane.smith@example.com",
+    "hobbies": ["Painting", "Running", "Cycling"]
+  },
+  {
+    "name": "Sam Brown",
+    "age": 22,
+    "email": "sam.brown@example.com",
+    "hobbies": ["Gaming", "Music", "Cooking"]
+  },
+  {
+    "name": "Emily White",
+    "age": 45,
+    "email": "emily.white@example.com",
+    "hobbies": ["Gardening", "Photography", "Traveling"]
+  },
+  {
+    "name": "Michael Green",
+    "age": 29,
+    "email": "michael.green@example.com",
+    "hobbies": ["Hiking", "Writing", "Swimming"]
+  }
+]
+
+
+1. Find all people who are older than 30.
+2. Extract only the names and email addresses of all people.
+3. Sort the list of people by age in ascending order.
+4. Group people by the first letter of their name.
+5. Find the average age of all people in the dataset.
+6. Find the first person who has "Swimming" as a hobby.
+7. List the names of people who are older than 25 and have "Cycling" as a hobby.
+8. Count the number of people who have more than two hobbies.
+9. Check if there is any person whose name starts with 'E'.
+10. List all unique hobbies in the dataset.
