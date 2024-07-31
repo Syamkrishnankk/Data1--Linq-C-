@@ -1,0 +1,17 @@
+C:\Users\descp\OneDrive\Desktop\C#\latest\bin\Debug\net7.0\latest.exe
+C:\Users\descp\OneDrive\Desktop\C#\latest\bin\Debug\net7.0\latest.deps.json
+C:\Users\descp\OneDrive\Desktop\C#\latest\bin\Debug\net7.0\latest.runtimeconfig.json
+C:\Users\descp\OneDrive\Desktop\C#\latest\bin\Debug\net7.0\latest.dll
+C:\Users\descp\OneDrive\Desktop\C#\latest\bin\Debug\net7.0\latest.pdb
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\latest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\latest.AssemblyInfoInputs.cache
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\latest.AssemblyInfo.cs
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\latest.csproj.CoreCompileInputs.cache
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\latest.dll
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\refint\latest.dll
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\latest.pdb
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\latest.genruntimeconfig.cache
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\ref\latest.dll
+C:\Users\descp\OneDrive\Desktop\C#\latest\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\latest.csproj.AssemblyReference.cache
+C:\Users\descp\OneDrive\Desktop\C#\latest\obj\Debug\net7.0\latest.csproj.CopyComplete
